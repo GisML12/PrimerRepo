@@ -1,0 +1,10 @@
+Inicio
+1. print (Dame tu edad)
+2. Edad = entrada del usuario 
+3. print (A que edad te quieres jubilar?)
+4. Hacer Retiro laboral = Entrada de usuario 
+5. Hacer año = 2021 
+6. Hacer _años_para_retiro = edad_de_retiro - edad 
+7. Hacer _años_para_retiro = año_actual + _años_para_retiro
+8. Imprimir (Es el año), año actual, (año_actual) (, por lo tanto te retiras dentro de ) _años_para_retiro, (en el), años_para_retiro
+Final
