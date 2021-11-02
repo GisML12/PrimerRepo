@@ -1,0 +1,10 @@
+Algoritmo para preparar cerealen el desayuno 
+Giselle Muruato Lara
+
+1. Inicio 
+2. Buscar materiales, Plato, Cuchara, Leche y el cereal de tu preferencia 
+3. Colocar en el plato el careal, poner la cantidad que sea necesaria 
+4. Despues vertir leche 
+5. Meter la cuhcara en el plato 
+6. Guardar los ingredientes y materiales sobrantes en su lugar 
+7. Fin 
